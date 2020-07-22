@@ -14,7 +14,7 @@ import { Component } from '@angular/core';
 })
 
 export class CoursesComponent { 
-    title = "List of courses";
+    title = "List of coursesss";
     courses;
 
     constructor(service: CoursesService) {
